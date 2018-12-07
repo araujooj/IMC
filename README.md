@@ -1,0 +1,3 @@
+# IMC
+Cálculo de IMC, que eu comecei a fazer pra aprender mais sobre o react native...
+Nada de muito grande, mas ja é algo
